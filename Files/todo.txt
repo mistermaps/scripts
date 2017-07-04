@@ -19,9 +19,3 @@
 
 //write a more advanced version of this script that creates a function that parses each category
 //parse items until whitespace, then number them, potentially allow user to erase them
-//cp todo list to backup and modify program to use copy
-//test
-//wrong space
-//jazz
-shitfuck
-fuck

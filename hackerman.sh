@@ -1,3 +1,0 @@
-#!/bin/fish
-cmatrix -s
-

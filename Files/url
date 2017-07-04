@@ -1,24 +1,16 @@
-https://getpocket.com/users/*em14913924927496b4b/feed/unread
-https://getpocket.com/users/*em14913924927496b4b/feed/all
-https://theintercept.com/feed/?lang=en news
-https://crimethinc.com/feed opinion
-http://projectcensored.org/feed/ news media
-http://feeds.arstechnica.com/arstechnica/open-source?format=xml tech
-http://feeds.arstechnica.com/arstechnica/security?format=xml security tech
-https://hackaday.com/feed/ security tech
-https://feeds.feedburner.com/motherjones/BlogsAndArticles news opinion
-https://www.salon.com/feed/ news opinion
-#http://www.salon.com/category/politics/ news opinion
-http://feeds.arstechnica.com/arstechnica/science?format=xml tech
-http://feeds.arstechnica.com/arstechnica/web?format=xml tech
-http://rss.slashdot.org/Slashdot/slashdot media
-https://shadowproof.com/feed/ "real news" news opinion
-https://www.lawfareblog.com/contributors/41/feed opinion
-http://www.aljazeera.com/xml/rss/all.xml news
-https://soylentnews.org/index.rss news
-http://www.congressionaldish.com/feed/ podcast
-https://socialecologies.wordpress.com/feed/ essays
-https://feeds.feedburner.com/HarmontownPodcast podcast
-https://feeds.feedburner.com/dancarlin/commonsense?format=xml podcast
-https://feeds.feedburner.com/DuncanTrussell podcast
-https://feeds.feedburner.com/InterceptedWithJeremyScahill podcast news
+https://theintercept.com/feed/?lang=en
+https://crimethinc.com/feed
+http://projectcensored.org/feed/
+http://feeds.arstechnica.com/arstechnica/open-source?format=xml
+http://feeds.arstechnica.com/arstechnica/security?format=xml security
+https://hackaday.com/feed/ security
+https://feeds.feedburner.com/motherjones/BlogsAndArticles
+https://www.salon.com/feed/
+https://www.salon.com/category/politics/
+http://feeds.arstechnica.com/arstechnica/science?format=xml
+http://feeds.arstechnica.com/arstechnica/web?format=xml 
+http://rss.slashdot.org/Slashdot/slashdot media 
+https://shadowproof.com/feed/ "real news"
+https://www.lawfareblog.com/contributors/41/feed politics
+http://www.aljazeera.com/xml/rss/all.xml
+https://soylentnews.org/index.rss
